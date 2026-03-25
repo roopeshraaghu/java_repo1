@@ -17,7 +17,7 @@ pipeline {
             steps {
                 echo 'Deploying...'
                 sh 'echo "Deploying the application..."'
-                sh 'echo "test'
+                sh 'echo "test"'
             }
         }
     }
